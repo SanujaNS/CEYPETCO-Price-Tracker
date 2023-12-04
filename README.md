@@ -74,7 +74,7 @@ If everything is configured correctly, you will get a notification like this whe
 
 |**[Buy me a coffee ☕](https://bmc.link/sanujans)**|
 |---------------------------------------------------|
-|![](assets/bmc_sanujans.jpg)                       |
+|![bmc_sanujans](https://github.com/SanujaNS/CEYPETCO-Price-Tracker/assets/66342986/b6ddd0d3-9028-44d6-91df-781a5327f854)            |
 |                                                   |
 
 # License
