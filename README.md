@@ -70,3 +70,13 @@ If everything is configured correctly, you will get a notification like this whe
 ### 2. Status: Changed
 ![Screenshot_20231205_000938](https://github.com/SanujaNS/CEYPETCO-Price-Tracker/assets/66342986/0c2bb79e-7469-4890-b8e7-df5345f88c81)
 
+# Donation
+
+|**[Buy me a coffee ☕](https://bmc.link/sanujans)**|
+|---------------------------------------------------|
+|![](assets/bmc_sanujans.jpg)                       |
+|                                                   |
+
+# License
+
+GNU General Public License v3.0
